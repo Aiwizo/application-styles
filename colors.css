@@ -1,0 +1,17 @@
+/**
+ * Aiwizo default stylesheet for "regular" components
+ */
+
+/* COLORS */
+body {
+  --aiwizo-application-blue: #51aded;
+  --aiwizo-application-blue-dark: #259ced;
+
+  --aiwizo-application-grey: #536270;
+  --aiwizo-application-grey-dark: #4d5863;
+
+  --aiwizo-application-red: #ed5153;
+  --aiwizo-application-red-dark: #e0393c;
+
+  --aiwizo-application-green: #23ce6b;
+}
