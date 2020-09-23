@@ -4,4 +4,9 @@
 /* TYPOGRAPHY */
 body {
   --aiwizo-application-default-font: "Open Sans", sans-serif;
+
+  /* Font Sizes */
+  --aiwizo-application-font-size-small: 10px;
+  --aiwizo-application-font-size-regular: 14px;
+  --aiwizo-application-font-size-big: 18px;
 }
