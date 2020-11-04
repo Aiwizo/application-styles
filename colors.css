@@ -27,6 +27,8 @@ body {
   --aiwizo-application-primary-border-blue: var(--aiwizo-application-blue);
   --aiwizo-application-secondary-border-blue: #cfecfd;
 
+  --aiwizo-application-primary-border-grey: #e8eaec;
+
   /* Text colors */
   --aiwizo-application-faded-text-grey: #a2acb3;
 }

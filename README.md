@@ -16,3 +16,12 @@ Include all
 ```
 https://cdn.jsdelivr.net/combine/gh/aiwizo/application-styles@latest/reset.css,gh/aiwizo/application-styles@latest/fonts.css,gh/aiwizo/application-styles@latest/colors.css,gh/aiwizo/application-styles@latest/animations.css
 ```
+
+```html
+
+<link
+  href="https://cdn.jsdelivr.net/combine/gh/aiwizo/application-styles@latest/<file>"
+  rel="stylesheet"
+>
+
+```
