@@ -20,7 +20,7 @@ https://cdn.jsdelivr.net/combine/gh/aiwizo/application-styles@latest/reset.css,g
 ```html
 
 <link
-  href="https://cdn.jsdelivr.net/combine/gh/aiwizo/application-styles@latest/<file>"
+  href="https://cdn.jsdelivr.net/gh/aiwizo/aiwizo-styles@latest/layout.css"
   rel="stylesheet"
 >
 
