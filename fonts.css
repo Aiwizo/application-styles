@@ -7,6 +7,11 @@ body {
 
   /* Font Sizes */
   --aiwizo-application-font-size-small: 10px;
-  --aiwizo-application-font-size-regular: 14px;
-  --aiwizo-application-font-size-big: 18px;
+  --aiwizo-application-font-size-regular: 12px;
+  --aiwizo-application-font-size-medium: 14px;
+  --aiwizo-application-font-size-big: 16px;
+  --aiwizo-application-font-size-bigger: 18px;
+
+  /* Title Sizes */
+  /* TODO: Add some default sizes for titles */
 }
