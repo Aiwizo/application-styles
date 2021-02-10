@@ -1,5 +1,12 @@
 /* COLORS */
 
+/**
+ * DEPRECATION WARNING!
+ * This file is deprecated and will be removed
+ * in the future. Please use the files in /src.
+ * No further updates will be made to this file.
+ */
+
 body {
   --aiwizo-application-blue: #51aded;
   --aiwizo-application-blue-dark: #259ced;
