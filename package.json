@@ -1,0 +1,23 @@
+{
+  "name": "@aiwizo/application-styles",
+  "version": "0.0.1",
+  "description": "Application styling module",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aiwizo/application-styles.git"
+  },
+  "keywords": [
+    "css",
+    "styling"
+  ],
+  "author": "Filip Johansson",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Aiwizo/application-styles/issues"
+  },
+  "homepage": "https://github.com/Aiwizo/application-styles#readme"
+}
