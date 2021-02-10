@@ -1,0 +1,14 @@
+/* FONTS */
+@import url('open-sans.css');
+
+/* TYPOGRAPHY */
+body {
+  --aiwizo-application-default-font: "Open Sans", sans-serif;
+
+  /* Font Sizes */
+  --aiwizo-application-font-size-small: 10px;
+  --aiwizo-application-font-size-regular: 12px;
+  --aiwizo-application-font-size-medium: 14px;
+  --aiwizo-application-font-size-big: 16px;
+  --aiwizo-application-font-size-bigger: 18px;
+}
