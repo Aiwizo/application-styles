@@ -4,7 +4,8 @@
   "description": "Application styling module",
   "main": "index.css",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier \"**/*.{css,md}\" --write"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Aiwizo/application-styles/issues"
   },
-  "homepage": "https://github.com/Aiwizo/application-styles#readme"
+  "homepage": "https://github.com/Aiwizo/application-styles#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
 }
