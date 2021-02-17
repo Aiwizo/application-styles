@@ -16,6 +16,9 @@ body {
   --aiwizo-application-white: #ffffff;
   --aiwizo-application-black: #000000;
 
+  --aiwizo-application-purple: #201c35;
+  --aiwizo-application-purple-dark: #181528;
+
   /* Backgrounds */
   --aiwizo-application-light-background-blue: #e6f5fd;
   --aiwizo-application-light-background-grey: #f3f5f6;
@@ -29,4 +32,5 @@ body {
 
   /* Text colors */
   --aiwizo-application-faded-text-grey: #a2acb3;
+  --aiwizo-application-faded-text-white: #ffffff55;
 }
